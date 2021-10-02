@@ -20,7 +20,7 @@ The analysis of the election shows that Diana DeGette won the election with 73.8
 
 Total Votes Cast in this congressional election was 369,711.
 
-Candidates
+#Candidates
 
 Charles Casper Stockham
 
@@ -28,7 +28,7 @@ Diana DeGette
 
 Raymon Anthony Doane
 
-Candidate Results:
+#Candidate Results:
 
 Charles Casper Stockham: 23.0% of the vote with 85,213 votes.
 
