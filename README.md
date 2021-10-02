@@ -17,6 +17,7 @@ Software: Python 3.8.8, Visual Studio Code 1.60.2
 # Summary
 
 The analysis of the election shows that Diana DeGette won the election with 73.8% of the vote.
+
 Total Votes Cast in this congressional election was 369,711.
 
 Candidates
