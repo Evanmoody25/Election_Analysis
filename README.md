@@ -68,6 +68,13 @@ As seen below:
 
 ![election_analysis_textfile](https://user-images.githubusercontent.com/89880015/135726474-5236e34a-16ea-4e8b-bcdd-bba36da90fe8.PNG)
 
+![Capture](https://user-images.githubusercontent.com/89880015/135727156-9b5c19c3-ebc6-4653-a32d-73a66d17e103.PNG)
+
+![Capture](https://user-images.githubusercontent.com/89880015/135727171-4f0b02b9-a6f2-4f0d-9541-bfd5c3fc83e7.PNG)
+
+![Capture](https://user-images.githubusercontent.com/89880015/135727199-87e4d540-dbfb-4e6a-9a13-ec843961b86b.PNG)
+
+
 
 # Deliverable 3
 
@@ -77,12 +84,22 @@ to find a winner of the election, as well as to introduce python to individuals 
 Results: 
 In this congressional election, 369,711 votes were caste.
 
-Breaking down the votes per county in the precinct, Jefferson had 38,855 voters turnout and that was 10.5% of total turnout accross counties. Denver had 306,055 voters turnout 
-and this was 82.8% of total turnout accross counties. Arapahoe had 24,801 voters turnout and thas was 6.7% of total turnout. 
--Denver had the largest number of votes
+Breaking down the votes per county in the precinct, 
 
-Breaking down the votes per candidate, Charles Casper Stockham had 85,213 votes which covered 23.0% of total votes. Diana DeGette had 272,892 votes which covered 73.8% of 
-the vote. Raymon Anthony Doane had 11,606 votes which covered 3.1% of the vote. 
+-Jefferson had 38,855 voters turnout and that was 10.5% of total turnout accross counties. 
+
+-Denver had 306,055 voters turnout and this was 82.8% of total turnout accross counties. Denver had the largest number of votes.
+
+-Arapahoe had 24,801 voters turnout and thas was 6.7% of total turnout. 
+
+Breaking down the votes per candidate, 
+
+-Charles Casper Stockham had 85,213 votes which covered 23.0% of total votes. 
+
+-Diana DeGette had 272,892 votes which covered 73.8% of the vote. 
+
+-Raymon Anthony Doane had 11,606 votes which covered 3.1% of the vote. 
+
 -Diana DeGette won the election with 272,892 votes which is, again, 73.8% of the vote. 
 
 How can this script be used in future elections? 
